@@ -9,7 +9,7 @@ body {
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center center; 
-    color: white; 
+    color: white;
 }
 body, html {
   height: 100%;
@@ -538,7 +538,7 @@ html {
   background-color: rgba(130, 130, 130, 0.501);
   padding: 20px 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  z-index: 1000; /* Đảm bảo popup hiển thị trên các phần còn lại của trang */
+  z-index: 1000; 
   border-radius: 10px;
 }
 
@@ -551,7 +551,7 @@ html {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 0 auto 20px; /* Canh giữa và tạo khoảng cách dưới hình ảnh */
+  margin: 0 auto 20px; 
 }
 
 .popup h2 {
